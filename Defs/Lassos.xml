@@ -82,7 +82,7 @@
 
 		</comps>
 		<equippedStatOffsets>
-			<!-- <AM_GrappleRadius>5</AM_GrappleRadius> -->
+			<!-- <AM_GrappleRadius>0</AM_GrappleRadius> -->
 		</equippedStatOffsets>
 		<costList>
 			<Cloth>40</Cloth>
@@ -113,7 +113,7 @@
 
 		</comps>
 		<equippedStatOffsets>
-			<AM_GrappleRadius>8</AM_GrappleRadius>
+			<AM_GrappleRadius>2</AM_GrappleRadius>
       <AM_GrappleSpeed>0.15</AM_GrappleSpeed>
       <AM_GrappleCooldown>-5</AM_GrappleCooldown>
 		</equippedStatOffsets>
@@ -130,8 +130,8 @@
 
   <ThingDef ParentName="AM_LassoBaseMakeable">
 		<defName>AM_LassoHyperwave</defName>
-		<label>Hyperweave Lasso</label>
-		<description>A hyperweave lasso that can drag enemies into melee range from a distance, or pull friendlies out of harm's way.\nAllows increased lasso reach compared to a devilstrand lasso.</description>
+		<label>Hyperwave Lasso</label>
+		<description>A hyperwave lasso that can drag enemies into melee range from a distance, or pull friendlies out of harm's way.\nAllows increased lasso reach compared to a devilstrand lasso.</description>
 		<graphicData>
 			<texPath>AM/Rope/Lasso</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -146,7 +146,7 @@
 
 		</comps>
 		<equippedStatOffsets>
-			<AM_GrappleRadius>14</AM_GrappleRadius>
+			<AM_GrappleRadius>4</AM_GrappleRadius>
       <AM_GrappleSpeed>0.45</AM_GrappleSpeed>
       <AM_GrappleCooldown>-10</AM_GrappleCooldown>      
 		</equippedStatOffsets>

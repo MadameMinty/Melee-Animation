@@ -5,7 +5,7 @@
     <label>Max Lasso Distance</label>
     <description>The maximum distance from which an enemy can be lassoed by this pawn.\nAffected by the equipped lasso type.</description>
     <category>PawnCombat</category>
-    <defaultBaseValue>10</defaultBaseValue>
+    <defaultBaseValue>3</defaultBaseValue>
     <minValue>1</minValue>
     <toStringStyle>FloatOne</toStringStyle>
     <forInformationOnly>true</forInformationOnly>
