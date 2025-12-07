@@ -141,7 +141,7 @@
       <li>
         <!-- How far the punt will send the victim flying, measured in cells -->
         <key>PuntRange</key>
-        <value>10</value>
+        <value>4</value>
       </li>
     </additionalData>
   </AM.AnimDef>
